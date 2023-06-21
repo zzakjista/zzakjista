@@ -9,5 +9,4 @@ My domain knowledge is related to consumer behavior
 
 let's Play together!
 
-
-<a href="https://www.instagram.com/zzakjista/" target="_blank"><img src="https://img.shields.io/badge/instagram-#-000000?style=for-the-badge&logo=appveyor&logoColor=#E4405F"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
