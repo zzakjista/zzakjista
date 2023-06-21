@@ -9,4 +9,5 @@ My domain knowledge is related to consumer behavior
 
 let's Play together!
 
+//MysQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
