@@ -27,6 +27,7 @@
 <!-- //photoshop --> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 <!-- //powerpoint --> <img src="https://img.shields.io/badge/Powerpoint-B7472A?style=for-the-badge&logo=microsoft powerpoint&logoColor=white"/>
 </div>
+
 ## COMM
 <div>
 <!-- //slack --> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
