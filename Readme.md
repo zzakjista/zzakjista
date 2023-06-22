@@ -5,15 +5,19 @@
 
 ## DEV STACK
 <DIV>
+  <a>
 <!-- //python --> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <!-- //MySQL --> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <!-- //pytorch --> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/>
 <!-- //pandas --> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <!-- //numpy --> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"/>
 <!-- //scikit-learn --> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  </a>
+  <a>
 <!-- //vscode --> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=VisualStudioCODE&logoColor=white"/>
 <!-- //colab --> <img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=google colab&logoColor=white"/>
 <!-- //github --> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
 </DIV>
 ## OTHERS
 <!-- //Google Analytics --> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white"/>
