@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=I'm%20completing%20the%20equation%20of%20growth&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=I'm%20completing%20the%20equation%20of%20growth✍&animation=twinkling&fontSize=32&fontAlignY=40&fontAlign=50&height=250)
 
 
 ## CONTACT
