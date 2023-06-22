@@ -19,13 +19,17 @@
 <!-- //github --> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </div>
 </DIV>
+
 ## OTHERS
+<div>
 <!-- //Google Analytics --> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white"/>
 <!-- //AI --> <img src="https://img.shields.io/badge/AI-FF9A00?style=for-the-badge&logo=Adobe illustrator&logoColor=white"/>
 <!-- //photoshop --> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 <!-- //powerpoint --> <img src="https://img.shields.io/badge/Powerpoint-B7472A?style=for-the-badge&logo=microsoft powerpoint&logoColor=white"/>
-
+</div>
 ## COMM
+<div>
 <!-- //slack --> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 <!-- //JIRA --> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <!-- //notion --><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</div>
