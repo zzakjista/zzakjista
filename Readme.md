@@ -8,7 +8,7 @@
 </div>
 
 ## DEV STACK
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; align="center";>
   <div>
 <!-- //python --> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <!-- //MySQL --> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
