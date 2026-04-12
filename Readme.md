@@ -4,7 +4,6 @@
 <h3 align="center"> <b>CONTACT</b> </h3>
 <div style="display:flex; flex-direction:row;">
 <p align="center">
-<a href="https://www.instagram.com/zzakjista/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://zzz0101.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
   <a href="gnsdl09@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
 </p>
